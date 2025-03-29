@@ -1,1 +1,4 @@
 scapy
+python-whois
+dnspython
+requests
