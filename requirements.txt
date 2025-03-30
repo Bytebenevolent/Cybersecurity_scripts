@@ -6,4 +6,7 @@ dnspython
 requests
 # Для port_scanner.sh
 nmap
+# Для zip_cracker.py
+zipfile
+time  
 
