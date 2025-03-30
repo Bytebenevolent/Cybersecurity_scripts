@@ -1,4 +1,9 @@
+# Для arp_detector.py
 scapy
+# Для web_osint.py
 python-whois
 dnspython
 requests
+# Для port_scanner.sh
+nmap
+
