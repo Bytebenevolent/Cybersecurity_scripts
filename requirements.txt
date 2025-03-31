@@ -8,5 +8,8 @@ requests
 nmap
 # Для zip_cracker.py
 zipfile
-time  
+time
+# Для redirect.py и html_filter.py
+csv
+beautiful_soup4
 
