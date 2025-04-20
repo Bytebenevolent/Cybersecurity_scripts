@@ -2,8 +2,8 @@ import jwt
 
 # This script tries different secret keys to generate a new JWT token with a custom payload.
 try:
-    user = input("Enter the user for payload: ").lower()
-    is_developer = input("User's developer(True or False): ").capitalize()
+    user = input("Enter the user for payload: ").lower().strip()
+    is_developer = input("User's developer(True or False): ").capitalize().strip()
 
     new_payload = {
         'developer': True,
